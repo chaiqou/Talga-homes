@@ -1,3 +1,1 @@
-Talga home app, airbnb clone georgian version :)
-Used technologies: React, Next.js 12, Styled-Components.
-Link => https://talga-home.netlify.app/
+This is a landing page for Talga Home App, an Airbnb clone that caters to the Georgian market. The landing page is built using React, Next.js 12, and Styled-Components, and features a responsive design that looks great on all devices.
